@@ -1,6 +1,6 @@
 # ToDoList
 
-![Общий вид ui]('https://github.com/AnnaApk/todo-list-mindbox/tree/main/public/image.png')
+![Общий вид ui](/public/image.png')
 
 ## React + TypeScript + Vite
 
