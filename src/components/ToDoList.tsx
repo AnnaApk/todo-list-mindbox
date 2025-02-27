@@ -39,7 +39,12 @@ export function ToDoList({tasks}: IProps) {
               <ListItemIcon>
                 <Checkbox edge="start" checked={task.completed} />
               </ListItemIcon>
-              <ListItemText>
+              <ListItemText 
+                sx={{
+                  textDecoration: task.completed ? 'line-through' : 'none',
+                  color: task.completed ? 'text.secondary' : 'text.primary',
+                }}
+              >
                 {task.text}
               </ListItemText>
             </ListItemButton>

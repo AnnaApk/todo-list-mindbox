@@ -1,4 +1,8 @@
-# React + TypeScript + Vite
+# ToDoList
+
+![Общий вид ui]('./public/image.png')
+
+## React + TypeScript + Vite
 
 ### Запуск:
 ```
