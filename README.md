@@ -1,6 +1,6 @@
 # ToDoList
 
-![Общий вид ui](/public/image.png')
+![Общий вид ui](/public/image.png)
 
 ## React + TypeScript + Vite
 
